@@ -1,3 +1,12 @@
 h1 {
-    color: aqua;
+    color: rgb(20, 236, 236);
+}
+h2{
+    color: brown;
+}
+button{
+    color: rgb(10, 10, 10);
+}
+body{
+    background-color: #e68626;
 }
